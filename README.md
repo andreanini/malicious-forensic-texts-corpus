@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/260280202.svg)](https://zenodo.org/badge/latestdoi/260280202)
+
 # The Malicious Forensic Texts Corpus
 
 The Malicious Forensic Texts (MFT) corpus is a corpus of authentic malicious forensic texts that has been compiled in order to study their register variation. The results of this analysis have been published in
